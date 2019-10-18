@@ -1,0 +1,20 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.three {
+    border: solid 4px white;
+    padding: 1rem;
+    border-radius: 8px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+button:hover {
+    cursor: pointer;
+    outline: none;
+}
